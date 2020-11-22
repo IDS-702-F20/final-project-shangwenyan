@@ -5,11 +5,11 @@ IDS 702 Final Project Proposal
 Bike sharing has now become the new generation of public transportation where the whole process from membership, rental and return back are completed using your mobile app. Currently, there are about over 500 bike-sharing programs around the world.  In order to provide a stable supply for the shared bikes, we want to know what are the main factors that affect the demand of shared bikes
 
 **Research Questions**\
-Do shared bikes have higher demand during the weekend?
-Which season has the highest demand for shared bikes.
-What is a likely range for the difference in demand for shared bikes between functional hours and non functional hours
-Is there any evidence that the association between hour of the day and shared bikes demand differs by holiday?
-Are there other interesting associations with demand for shared bikes that are worth mentioning?
+Do shared bikes have higher demand during the weekend?\
+Which season has the highest demand for shared bikes.\
+What is a likely range for the difference in demand for shared bikes between functional hours and non functional hours\
+Is there any evidence that the association between hour of the day and shared bikes demand differs by holiday?\
+Are there other interesting associations with demand for shared bikes that are worth mentioning?\
 
 **Data**\
 Source: https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand \
