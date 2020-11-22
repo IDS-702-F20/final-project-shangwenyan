@@ -6,10 +6,10 @@ Bike sharing has now become the new generation of public transportation where th
 
 **Research Questions**\
 Do shared bikes have higher demand during the weekend?\
-Which season has the highest demand for shared bikes.\
+Which season has the highest demand for shared bikes?\
 What is a likely range for the difference in demand for shared bikes between functional hours and non functional hours\
 Is there any evidence that the association between hour of the day and shared bikes demand differs by holiday?\
-Are there other interesting associations with demand for shared bikes that are worth mentioning?\
+Are there other interesting associations with demand for shared bikes that are worth mentioning?
 
 **Data**\
 Source: https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand \
@@ -29,12 +29,12 @@ Seasons - Winter, Spring, Summer, Autumn\
 Holiday - Holiday/No holiday\
 Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)\
 Size: 590kb\
-Potential Problems: might need aggregation for analysis.\
+Potential Problems: might need aggregation for analysis.
 
 **Plan**\
 Model: Multiple linear regression\
 Schedule:\
- EDA, 11/01\
+ EDA, 11/01
  Model selection and all coding, 11/08\
  First half of report and record presentation, 11/15\
  Second half of report and polishing, 11/22\
